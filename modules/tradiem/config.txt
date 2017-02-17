@@ -1,0 +1,1 @@
+HỆ THỐNG TRA CỨU ĐIỂM HỌC SINH <br/>CỦA TRƯỜNG|Tra theo họ tên, mã học sinh hoặc mã lớp. <br/>Ví dụ: Dung hoặc 12A0101 hoặc 12A01
