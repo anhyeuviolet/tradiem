@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>HienCPT</Author>
+  <LastAuthor>ismail - [2010]</LastAuthor>
+  <Created>2009-01-31T02:14:35Z</Created>
+  <LastSaved>2009-02-13T02:53:36Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>11.5606</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9210</WindowHeight>
+  <WindowWidth>11355</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="44" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s21" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="72.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="60.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="44.25" ss:Span="1"/>
+   <Column ss:Index="5" ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="69.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="51"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="73.5"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="181.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="28.5" ss:StyleID="s22">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mã học sinh</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Lopid</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">TBM</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Học lực</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Hạnh kiểm</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">snncp</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">snnkp</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Danh hiệu</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Nhận xét GVCN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0101</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0102</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0103</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0104</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0105</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0106</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0107</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0108</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Yếu</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0109</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cần cố gắng để có kết quả tốt hơn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0110</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cần cố gắng để có kết quả tốt hơn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0111</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cần cố gắng để có kết quả tốt hơn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0112</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cần cố gắng để có kết quả tốt hơn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0113</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cần cố gắng để có kết quả tốt hơn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0114</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cần cố gắng để có kết quả tốt hơn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0115</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0116</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0117</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0118</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0119</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0120</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0121</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0122</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0123</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0124</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0125</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0126</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0127</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0128</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0129</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0130</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0131</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0132</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0133</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0134</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Vắng học nhiều không lý do</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0135</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0136</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0137</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0138</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0139</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0140</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0141</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0142</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0143</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">TB</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chăm ngoan, Ý thức học tập tốt</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <TopRowVisible>1</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>R2C2:R44C2</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

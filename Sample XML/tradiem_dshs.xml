@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>HienCPT</Author>
+  <LastAuthor>ismail - [2010]</LastAuthor>
+  <Created>2009-01-31T02:14:35Z</Created>
+  <LastSaved>2009-02-01T15:01:53Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>11.5606</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9210</WindowHeight>
+  <WindowWidth>11355</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName=".VnTime" x:Family="Swiss" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Font x:Family="Swiss" ss:Size="12"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+   <Protection x:HideFormula="1"/>
+  </Style>
+  <Style ss:ID="s29" ss:Parent="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat ss:Format="Short Date"/>
+   <Protection x:HideFormula="1"/>
+  </Style>
+  <Style ss:ID="s31" ss:Parent="s21">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <Protection x:HideFormula="1"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat ss:Format="Short Date"/>
+   <Protection x:HideFormula="1"/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+   <Protection x:HideFormula="1"/>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+   <Protection x:HideFormula="1"/>
+  </Style>
+  <Style ss:ID="s36" ss:Parent="s21">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"
+    ss:Color="#000000"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="44" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s22" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="171.75"/>
+   <Column ss:StyleID="s23" ss:Width="65.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="84"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="147.75"/>
+   <Column ss:Index="8" ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="57"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">MAHS</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">HOTEN</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">PHAI</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">NGAYSINH</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">NOISINH</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0101</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Võ Thị Hoàng Anh</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">30.06.1992</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0102</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Nguyễn Xuân Ben</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">16.05.1992</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Chơn Thành, Binh Phước</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0103</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Thị Bốn</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">01.09.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0104</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Võ Hữu Cẩn</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">27.10.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0105</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Lê Thị Trân Châu</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">01.01.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Vang, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0106</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Hồ Thị Kim Dung</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">25.09.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0107</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Hồ Thị Phương Goanh</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">05.10.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0108</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Hầu Cao Xuân Hạ</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">10.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0109</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Hoàng Văn Hải</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">04.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0110</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Đoàn Thị Hiền</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">28.10.1991</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0111</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Văn Hoà</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">10.10.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0112</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Hoàng</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">06.03.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Vang, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0113</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Thị Thu Hồng</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">19.11.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0114</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Phạm Khảm</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">10.04.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Vang, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0115</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Hoàng Trung Khoa</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">31.01.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0116</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Đào Khôi</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">08.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Vang, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0117</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Thị Lanh</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">29.11.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0118</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Trần Lịch</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">20.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Vang, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0119</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Thị Liên</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">22.01.1991</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0120</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Trần Thị Mỹ Linh</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">26.11.1991</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0121</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Đoàn Quang Long</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">20.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0122</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Trần Thị Lượm</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">15.09.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0123</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Phạm Thị Hương Mai</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">15.04.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0124</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Văn Thị Kim Ngân</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">02.10.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Vang, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0125</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Mai Thị Nhàn</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">01.01.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0126</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Dương Thị Duy Phước</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">01.03.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0127</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Văn Phước</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">26.09.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0128</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Thị Thanh Phương</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">04.06.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0129</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Trần Thị Phượng</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">07.01.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0130</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Trần Quang</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">10.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0131</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Phạm Thị Quí</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">15.08.1992</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Hoà Vang, Quảng Nam</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0132</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Hồ Thị Kim Quyên</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">03.10.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0133</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Đỗ Như Ái Quỳnh</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">27.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Vang, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0134</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Đoàn Lê Phước Sơn</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">10.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0135</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Trần Hoàng Sỷ</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">24.12.1991</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0136</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Phan Trung Thành</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">01.05.1992</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Tánh Linh, Bình Thuận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0137</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Nguyễn Thị Hồng Thắm</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">20.10.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0138</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Đỗ Thị Kim Thư</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">17.12.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0139</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Trần Thị Nam Trân</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">12.08.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0140</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Phan Đình Huỳnh Tuyễn</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">10.10.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0141</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Đoàn Thị Vân</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">15.09.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0142</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Phạm Vĩnh</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">20.02.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12A0143</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Trần Nguyên Vũ</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">15.09.1992</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Phú Lộc, Thừa Thiên Huế</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R1C5</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
