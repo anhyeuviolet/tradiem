@@ -145,7 +145,7 @@ if ($hkid > 0 and $code != ""){
 		$lophoc = array();
 		while ($rows = $result->fetch())
 		{
-	    	$lophoc[$rows[0]] = $rows[1];
+	    	$lophoc[$rows["lopid"]] = $rows["tenlop"];
 		}
 		$contents = mains($content, $lophoc, $namhoc, $ext, $script, $kqsearch);
 	}
